@@ -53,7 +53,7 @@ Tudo de forma simples e direta.
 - **Deploy:** Vercel
 - **Estilização:** CSS + DM Sans
 
-Prototipo: https://www.figma.com/make/k71dIU9I0eRZF7YjY2PDbe/FinMind-AI-Financial-App-Design?fullscreen=1&t=sYeWVkQ8MlNmZm8V-1&code-node-id=0-9
+- **Prototipo: ** https://www.figma.com/make/k71dIU9I0eRZF7YjY2PDbe/FinMind-AI-Financial-App-Design?fullscreen=1&t=sYeWVkQ8MlNmZm8V-1&code-node-id=0-9
 ---
 
 # 🔒 Arquitetura
